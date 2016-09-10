@@ -1,0 +1,3 @@
+rootProject.name = 'IN2V'
+
+include ':app'
